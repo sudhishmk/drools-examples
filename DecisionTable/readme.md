@@ -1,4 +1,4 @@
 Repository Init Content
 =======================
 
-Your project description here.
+This is an example to use functions in decision table. You can use test scenario to test it.
